@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "2fc0f4d7036ca857",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c574fc53d10be8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tools/vscode.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "196d7e1777850f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f759d8ba70909d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9e14b55fc3a47f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "128df19d05e8f9f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42ab1771490ab5d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9ecc027e1146dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ac1b8869310c76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a69b19a7070bb36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tools/vscode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bc0cc80d413ccfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tools/vscode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b329145601e6eca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45ba1419705f2f2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tools/vscode.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9e14b55fc3a47f0",
+  "lastOpenFiles": [
+    "javascript/typescript.md",
+    "javascript/prettier.md",
+    "javascript/nodemon.md",
+    "docker/docker-compose.md",
+    "docker/docker.md",
+    "github/dependabot.md",
+    "go/working with files.md",
+    "tools/vscode.md",
+    "mongodb.md",
+    "svelte.md"
+  ]
+}
