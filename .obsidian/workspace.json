@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "702eaf64bc19d382",
+        "id": "b683ad8656710d3e",
         "type": "tabs",
         "children": [
           {
@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/workflows/go.md",
+                "file": "javascript/yarn.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3fce32db83b9fd99",
+            "id": "4e4205adaae7c7dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/workflows/go.md",
+                "file": "github/dependabot.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/workflows/go.md",
+                "file": "github/dependabot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/workflows/go.md",
+                "file": "github/dependabot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/workflows/go.md"
+                "file": "github/dependabot.md"
               }
             }
           }
@@ -153,17 +153,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3fce32db83b9fd99",
+  "active": "4e4205adaae7c7dd",
   "lastOpenFiles": [
-    "github/dependabot.md",
-    "github/workflows/go.md",
     "tools/vscode.md",
     "javascript/typescript.md",
     "javascript/prettier.md",
     "javascript/nodemon.md",
     "docker/docker-compose.md",
     "docker/docker.md",
+    "github/dependabot.md",
     "go/working with files.md",
-    "mongodb.md"
+    "mongodb.md",
+    "svelte.md"
   ]
 }

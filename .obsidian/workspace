@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "github/workflows/go.md",
+            "file": "javascript/yarn.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/workflows/go.md",
+                "file": "javascript/yarn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/workflows/go.md",
+                "file": "javascript/yarn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/workflows/go.md"
+                "file": "javascript/yarn.md"
               }
             }
           }
@@ -131,8 +131,6 @@
   },
   "active": "4c574fc53d10be8c",
   "lastOpenFiles": [
-    "github/dependabot.md",
-    "github/workflows/go.md",
     "tools/vscode.md",
     "javascript/typescript.md",
     "javascript/prettier.md",
@@ -140,6 +138,7 @@
     "docker/docker-compose.md",
     "docker/docker.md",
     "go/working with files.md",
-    "mongodb.md"
+    "mongodb.md",
+    "svelte.md"
   ]
 }
