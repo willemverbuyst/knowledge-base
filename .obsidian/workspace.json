@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4c574fc53d10be8c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "javascript/yarn.md",
-            "mode": "source",
-            "source": false
+        "id": "b683ad8656710d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c574fc53d10be8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript/yarn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e4205adaae7c7dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github/dependabot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/yarn.md",
+                "file": "github/dependabot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript/yarn.md",
+                "file": "github/dependabot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/yarn.md"
+                "file": "github/dependabot.md"
               }
             }
           }
@@ -129,7 +150,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c574fc53d10be8c",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4e4205adaae7c7dd",
   "lastOpenFiles": [
     "tools/vscode.md",
     "javascript/typescript.md",
