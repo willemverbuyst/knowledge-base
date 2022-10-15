@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "github/dependabot.md",
+                "file": "docker/postgresql/docker-compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "github/dependabot.md",
+                "file": "docker/postgresql/docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "github/dependabot.md",
+                "file": "docker/postgresql/docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "github/dependabot.md"
+                "file": "docker/postgresql/docker-compose.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "4e4205adaae7c7dd",
   "lastOpenFiles": [
+    "docker/postgresql/docker-compose.md",
+    "github/dependabot.md",
     "tools/vscode.md",
     "javascript/typescript.md",
     "javascript/prettier.md",
     "javascript/nodemon.md",
     "docker/docker-compose.md",
     "docker/docker.md",
-    "github/dependabot.md",
     "go/working with files.md",
-    "mongodb.md",
-    "svelte.md"
+    "mongodb.md"
   ]
 }
