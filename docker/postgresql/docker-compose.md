@@ -11,9 +11,9 @@ services:
       POSTGRES_PASSWORD: password
       POSTGRES_DB: mydb
     networks:
-      - schooldashboard
+      - mynetwork
 networks:
-  schooldashboard:
+  mynetwork:
 ```
 
 in dotenv:
