@@ -137,7 +137,6 @@
     "javascript/nodemon.md",
     "docker/docker-compose.md",
     "docker/docker.md",
-    "github/dependabot.md",
     "go/working with files.md",
     "mongodb.md",
     "svelte.md"
