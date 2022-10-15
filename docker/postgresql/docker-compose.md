@@ -20,3 +20,7 @@ in dotenv:
 `DATABASE_URL=postgresql://<USER>:<PASSWORD>@<HOST>:<PORT>/<DATABASE>?schema=<SCHEMA>`
 
 `DATABASE_URL=postgresql://postgres:password@localhost:5432/mydb?schema=public`
+
+In terminal run
+> docker-compose up \[dev-db\]
+
