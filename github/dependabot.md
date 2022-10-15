@@ -32,10 +32,10 @@ version: 2
 updates:
   - directory: .
     package-ecosystem: 'npm'
-	  schedule:
+    schedule:
       interval: 'monthly'
-			time: '04:00'
-		ignore:
+      time: '04:00'
+    ignore:
       - dependency-name: '*'
         update-types: ['version-update:semver-major']
 ```

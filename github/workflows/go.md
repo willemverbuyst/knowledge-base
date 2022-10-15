@@ -17,7 +17,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v2
         with:
-				  go-version: '1.18.3'
+          go-version: '1.18.3'
       - name: Install dependencies
         run: go version
       - name: Run build
