@@ -3,7 +3,6 @@
 ## Build and lint go project
 
 **`./github/workflows/build-lint.yml`**
-
 ```yml
 name: Server - build & lint
 
