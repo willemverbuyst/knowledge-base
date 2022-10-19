@@ -11,7 +11,6 @@ clone repo
 > git clone \<name of original url\>
 
 cd in to cloned repo
-rename directory you want to move to a separate repo to the name of the new repo
 
 > git filter-branch --prune-empty --subdirectory-filter \<name of subdirectory\> -- main
 
