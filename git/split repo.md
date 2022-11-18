@@ -1,4 +1,4 @@
-start in the directory  and check which folder you want to separate
+start in the directory and check which folder you want to separate
 
 > ls
 
